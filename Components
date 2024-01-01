@@ -1,0 +1,33 @@
+# IOT-RC-Car
+
+Components Required :- 
+
+* Ardino - Mother Board
+    Link - https://amzn.eu/d/gKPn39D = 470
+
+* ESP - Mother Board
+    Link - https://amzn.eu/d/2NAAD4c = 540
+
+
+* NodeMCU 
+    Link - https://amzn.eu/d/8KgjfqH = 253
+
+* Camera Links - 5 MP
+    - https://amzn.eu/d/8yWR3v4 = 380
+    - https://amzn.eu/d/0qiWYfo = 350
+    - https://amzn.eu/d/4P4lbKo = 550
+
+
+* Wheels 
+    Link - https://amzn.eu/d/6sqcn1V = 100
+
+
+* BO Motor Straight 
+    Link - https://amzn.eu/d/8RrQEiF = 410
+
+
+* L293D Motor Driver
+    Link - https://amzn.eu/d/gl7CcQE = 278
+
+* L298N Motor Driver 
+    Link - https://amzn.eu/d/gjhH9go = 247
